@@ -48,7 +48,7 @@ Each pattern has its own markdown file in the `patterns` directory, organized by
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/design-patterns.git
+   git clone https://github.com/fawadeqbal/Design-Patterns-in-Software-Engineering.git
    ```
 2. Navigate to the specific pattern folder.
 3. Open the code files to see the pattern implementation.
